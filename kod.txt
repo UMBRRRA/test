@@ -1,0 +1,10 @@
+// program do liczenia sredniej arytmetycznej z dwoch liczb
+
+double x, y, wynik;
+
+cin >> x;
+cin >> y;
+
+wynik = (x - y) / 2;
+
+cout << wynik;
